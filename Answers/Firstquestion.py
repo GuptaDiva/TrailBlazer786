@@ -1,0 +1,8 @@
+print("a)*")
+print("  **")
+print("  ***")
+print("  ****")
+print("b)****")
+print("  ***")
+print("  **")
+print("  *")
